@@ -1,0 +1,5 @@
+campana_id,nombre,tipo,fecha_inicio,fecha_fin,canal,presupuesto,ventas_ano_anterior
+1,Rebajas Invierno 2025,rebajas,2025-01-07,2025-01-28,email,680000,1076062.33
+2,Rebajas Verano 2025,rebajas,2025-07-01,2025-07-21,instagram,64000,1102824.78
+3,Black Friday 2025,black_friday,2025-11-28,2025-12-01,google,820000,276170.47
+4,Navidad 2025,navidad,2025-12-10,2025-12-24,instagram,760000,939832.4
