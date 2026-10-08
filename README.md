@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Analizar las ventas de los productos de **ModaModerna, una empresa ficticia de moda**, para identificar qué productos generan más ingresos, comprobar si se cumple el principio de Pareto y analizar las devoluciones de los productos TOP.
+Analizar los productos de ModaModerna, una empresa ficticia de moda, para estudiar la contribución de los productos TOP a los ingresos y sus principales motivos de devolución.
 
 ## Preguntas de negocio
 
